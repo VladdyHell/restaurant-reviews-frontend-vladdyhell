@@ -1,0 +1,12 @@
+node_modules/
+.env
+
+/dart-sass
+.sass-cache
+.prettierrc.json
+
+workspace.sublime-project
+workspace.sublime-workspace
+readd-repo.sh
+
+*.swp
