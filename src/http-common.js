@@ -5,6 +5,5 @@ export default axios.create({
     header: {
         'Content-type': 'aplication/json',
         'Access-Control-Allow-Credentials': true,
-        'Access-Control-Allow-Origin': 'https://restaurant-reviews-vladdyhell.herokuapp.com/api/v1/restaurants',
     },
 });
